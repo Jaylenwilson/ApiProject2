@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+
+}
+
+
+input{
+    left: 80px;
+    top: 100px;
+    width: 300px;
+    text-align: left;
+}
+
+p{
+    align-items: center;
+}
+
+label{
+    text-align: right;
+    color: yellow;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+    text-shadow: blue;
+}
+
+form{
+    align-content: center;
+}
+
+input::placeholder{
+    color: darkgoldenrod;
+}
+
+button{
+    color: blue;
+    background-color: yellow;
+}
+
+img{
+    background-color: transparent;
+    width: 200px;
+    height: 200px;
+}
