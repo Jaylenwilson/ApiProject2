@@ -29,4 +29,12 @@ header{
 
     #cryptologo:hover{
         background-color: lawngreen;
+        height: 410px;
+        width: 450px;
+    }
+
+    table, th, td{
+        border: 1px solid black;
+        margin-top: 5rem;
+        margin-left: 2rem;
     }
