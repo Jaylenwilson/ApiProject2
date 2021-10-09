@@ -6,7 +6,7 @@ input{
     height: 200px;
     width: 200px;
     border-radius: 100%;
-    
+  
 }
 
 header{
@@ -24,5 +24,9 @@ header{
     transform: translate(-50%, -50%);
     height: 400px;
     width: auto;
+    border-radius: 100%;
     }
 
+    #cryptologo:hover{
+        background-color: lawngreen;
+    }
